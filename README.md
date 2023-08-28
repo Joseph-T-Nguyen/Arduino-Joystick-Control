@@ -20,6 +20,8 @@ No additional pushbutton peripherals were required, as the game was playable wit
 
 Game link: https://subway-surfers.me/
 
+https://github.com/Joseph-T-Nguyen/Arduino-Joystick-Control/assets/129492079/160b4d1e-3fed-4a36-845c-2bf6b976373e
+
 # Tetris Demo
 Additional pushbuttons were required to rotate left, right, and hard drop the block. These were configured according to my settings in the online game:
 * "a" for `rotate left`
@@ -27,3 +29,7 @@ Additional pushbuttons were required to rotate left, right, and hard drop the bl
 * "d" for `rotate right`
 
 Game link: https://www.freetetris.org/game.php
+
+https://github.com/Joseph-T-Nguyen/Arduino-Joystick-Control/assets/129492079/b30f64d4-633d-4cf4-ad35-2da47181ea35
+
+
